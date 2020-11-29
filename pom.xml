@@ -18,10 +18,11 @@
 
   <dependencies>
     <dependency>
-      <groupId>io.github.bonigarcia</groupId>
-      <artifactId>webdrivermanager</artifactId>
-      <version>4.2.2</version>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-picocontainer</artifactId>
+      <version>6.5.0</version>
     </dependency>
+
 
   </dependencies>
 
