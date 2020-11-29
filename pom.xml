@@ -17,6 +17,12 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-testng</artifactId>
+      <version>6.4.0</version>
+      <scope>test</scope>
+    </dependency>
 
   </dependencies>
 
