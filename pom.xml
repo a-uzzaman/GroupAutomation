@@ -4,13 +4,18 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
   <groupId>org.TTGroup</groupId>
+=======
+  <groupId>org.TalenTEK</groupId>
+>>>>>>> Alvin
   <artifactId>GroupAutomation</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>GroupAutomation</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -20,11 +25,18 @@
 
   <dependencies>
     <dependency>
+<<<<<<< HEAD
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>3.141.59</version>
     </dependency>
 
+=======
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.3.0</version>
+    </dependency>
+>>>>>>> Alvin
   </dependencies>
 
   <build>
