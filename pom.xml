@@ -25,9 +25,6 @@
 
   <dependencies>
     <dependency>
-
-
-
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>3.141.59</version>
@@ -46,9 +43,17 @@
       <artifactId>cucumber-testng</artifactId>
       <version>6.4.0</version>
       <scope>test</scope>
-
     </dependency>
       <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>6.4.0</version>
+      </dependency>
+
+
+
+    <dependency>
+
       <groupId>io.cucumber</groupId>
       <artifactId>cucumber-picocontainer</artifactId>
       <version>6.5.0</version>
@@ -95,8 +100,6 @@
   </dependencies>
 
   <build>
-
-
 
     <plugins>
       <plugin>
